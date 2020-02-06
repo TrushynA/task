@@ -1,5 +1,5 @@
 ---
-   - petua:
+   - name:
      nick: petik
      position: developer
      skills:
@@ -17,4 +17,3 @@
      - apple
      - orange
      - mango
- 
