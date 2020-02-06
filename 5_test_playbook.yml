@@ -1,0 +1,10 @@
+---
+ - name: my playbook
+   hosts: host1
+   become: yes
+
+   tasks:
+     - shell: ls -la /etc/ansible/playbook
+       register: rez
+     - debug:
+         var: rez
