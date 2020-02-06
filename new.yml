@@ -1,0 +1,20 @@
+---
+   - petua:
+     nick: petik
+     position: developer
+     skills:
+         - php
+         - python
+
+   - petua:
+     nick: "pettya: petik"
+     position: developer
+     skills:
+         - php
+         - python
+
+   - fructs
+     - apple
+     - orange
+     - mango
+ 
